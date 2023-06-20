@@ -1,0 +1,1432 @@
+[
+  {
+    "campaignId": 15777550954,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 4,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550954,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1130000,
+    "impressions": 14,
+    "clicks": 2,
+    "conversions": 8.0
+  },
+  {
+    "campaignId": 15777550954,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 790000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550960,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550960,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550966,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550966,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 3240000,
+    "impressions": 29,
+    "clicks": 6,
+    "conversions": 14.0
+  },
+  {
+    "campaignId": 15777550966,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1200000,
+    "impressions": 4,
+    "clicks": 2,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550972,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550978,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 760000,
+    "impressions": 11,
+    "clicks": 1,
+    "conversions": 1.0
+  },
+  {
+    "campaignId": 15777550978,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 2880000,
+    "impressions": 24,
+    "clicks": 5,
+    "conversions": 6.0
+  },
+  {
+    "campaignId": 15777550978,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550984,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 6,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550984,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1190000,
+    "impressions": 16,
+    "clicks": 2,
+    "conversions": 8.0
+  },
+  {
+    "campaignId": 15777550990,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 19,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550990,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 4330000,
+    "impressions": 37,
+    "clicks": 7,
+    "conversions": 5.0
+  },
+  {
+    "campaignId": 15777550990,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 0,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777550996,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551002,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 850000,
+    "impressions": 1,
+    "clicks": 1,
+    "conversions": 4.0
+  },
+  {
+    "campaignId": 15777551002,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 4,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551002,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551008,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551008,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 850000,
+    "impressions": 8,
+    "clicks": 2,
+    "conversions": 1.0
+  },
+  {
+    "campaignId": 15777551008,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551014,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551014,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551020,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551020,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 5,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551020,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551026,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 210000,
+    "impressions": 6,
+    "clicks": 1,
+    "conversions": 4.0
+  },
+  {
+    "campaignId": 15777551026,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 4490000,
+    "impressions": 18,
+    "clicks": 7,
+    "conversions": 10.0
+  },
+  {
+    "campaignId": 15777551026,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551032,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551032,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551038,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551038,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 970000,
+    "impressions": 3,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551164,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 680000,
+    "impressions": 5,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551164,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 4210000,
+    "impressions": 22,
+    "clicks": 6,
+    "conversions": 24.0
+  },
+  {
+    "campaignId": 15777551170,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 5,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551170,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 5180000,
+    "impressions": 41,
+    "clicks": 13,
+    "conversions": 40.0
+  },
+  {
+    "campaignId": 15777551170,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 5,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551176,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551182,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 730000,
+    "impressions": 9,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551182,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 4090000,
+    "impressions": 25,
+    "clicks": 7,
+    "conversions": 9.0
+  },
+  {
+    "campaignId": 15777551182,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551188,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 840000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 2.0
+  },
+  {
+    "campaignId": 15777551188,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 410000,
+    "impressions": 4,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551188,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 980000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551194,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 6,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551200,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551200,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551200,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 4,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551203,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1830000,
+    "impressions": 3,
+    "clicks": 3,
+    "conversions": 3.0
+  },
+  {
+    "campaignId": 15777551206,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551206,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551206,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551212,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 430000,
+    "impressions": 12,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551212,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1800000,
+    "impressions": 39,
+    "clicks": 4,
+    "conversions": 28.0
+  },
+  {
+    "campaignId": 15777551212,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551218,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1000000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 1.0
+  },
+  {
+    "campaignId": 15777551218,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 2850000,
+    "impressions": 12,
+    "clicks": 4,
+    "conversions": 2.0
+  },
+  {
+    "campaignId": 15777551218,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551224,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 890000,
+    "impressions": 10,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551224,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 2300000,
+    "impressions": 29,
+    "clicks": 4,
+    "conversions": 1.0
+  },
+  {
+    "campaignId": 15777551224,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 610000,
+    "impressions": 4,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551230,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551230,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551236,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551236,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 8,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551242,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551242,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551248,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551254,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 960000,
+    "impressions": 22,
+    "clicks": 1,
+    "conversions": 7.0
+  },
+  {
+    "campaignId": 15777551254,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 9160000,
+    "impressions": 73,
+    "clicks": 13,
+    "conversions": 12.0
+  },
+  {
+    "campaignId": 15777551254,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551260,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 6,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551260,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 4,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551260,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551266,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 320000,
+    "impressions": 21,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551266,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 6440000,
+    "impressions": 65,
+    "clicks": 12,
+    "conversions": 41.0
+  },
+  {
+    "campaignId": 15777551266,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 2,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551272,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 4,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551272,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 9,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551272,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551275,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551278,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1980000,
+    "impressions": 48,
+    "clicks": 2,
+    "conversions": 3.0
+  },
+  {
+    "campaignId": 15777551278,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 6380000,
+    "impressions": 138,
+    "clicks": 8,
+    "conversions": 4.0
+  },
+  {
+    "campaignId": 15777551278,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 710000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551401,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 530000,
+    "impressions": 3,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551404,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 3,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551410,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 970000,
+    "impressions": 3,
+    "clicks": 1,
+    "conversions": 2.0
+  },
+  {
+    "campaignId": 15777551410,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 2500000,
+    "impressions": 6,
+    "clicks": 3,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551410,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 550000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551416,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 680000,
+    "impressions": 8,
+    "clicks": 1,
+    "conversions": 3.0
+  },
+  {
+    "campaignId": 15777551416,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 3410000,
+    "impressions": 12,
+    "clicks": 4,
+    "conversions": 2.0
+  },
+  {
+    "campaignId": 15777551416,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 810000,
+    "impressions": 1,
+    "clicks": 1,
+    "conversions": 3.0
+  },
+  {
+    "campaignId": 15777551422,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 21,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551422,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 3390000,
+    "impressions": 60,
+    "clicks": 8,
+    "conversions": 6.0
+  },
+  {
+    "campaignId": 15777551422,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 980000,
+    "impressions": 2,
+    "clicks": 1,
+    "conversions": 3.0
+  },
+  {
+    "campaignId": 15777551425,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 240000,
+    "impressions": 1,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551428,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 470000,
+    "impressions": 13,
+    "clicks": 1,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551428,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 5200000,
+    "impressions": 49,
+    "clicks": 7,
+    "conversions": 23.0
+  },
+  {
+    "campaignId": 15777551428,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551431,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 0,
+    "impressions": 1,
+    "clicks": 0,
+    "conversions": 0.0
+  },
+  {
+    "campaignId": 15777551440,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 2500000,
+    "impressions": 21,
+    "clicks": 3,
+    "conversions": 4.0
+  },
+  {
+    "campaignId": 15777551440,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 14030000,
+    "impressions": 74,
+    "clicks": 17,
+    "conversions": 32.0
+  },
+  {
+    "campaignId": 15777551440,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 210000,
+    "impressions": 4,
+    "clicks": 1,
+    "conversions": 5.0
+  },
+  {
+    "campaignId": 15777551446,
+    "deviceType": "DESKTOP",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 3960000,
+    "impressions": 30,
+    "clicks": 6,
+    "conversions": 14.0
+  },
+  {
+    "campaignId": 15777551446,
+    "deviceType": "MOBILE",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 13130000,
+    "impressions": 105,
+    "clicks": 21,
+    "conversions": 29.0
+  },
+  {
+    "campaignId": 15777551446,
+    "deviceType": "TABLET",
+    "day": [
+      2022,
+      1,
+      17
+    ],
+    "cost": 1960000,
+    "impressions": 12,
+    "clicks": 2,
+    "conversions": 0.0
+  }
+]

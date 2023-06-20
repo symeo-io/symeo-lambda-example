@@ -1,0 +1,3 @@
+class SourceObject:
+
+    pass

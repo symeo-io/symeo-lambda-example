@@ -1,0 +1,3 @@
+class TargetObject:
+
+    pass

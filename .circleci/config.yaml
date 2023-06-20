@@ -1,0 +1,7 @@
+jobs:
+  build-and-deploy-adwords-audience-device-lambda:
+    steps:
+      - checkout
+      - run: |
+          source deploy.sh
+          build-and-deploy-lambda "lambda_function_adwords_audience_device_report.py" "aws_lambda_target_name"

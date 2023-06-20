@@ -34,8 +34,6 @@ def lambda_handler(event, context):
         ParquetTransformerAdapter(),
         S3WriterParquetAdapter(aws_client),
     )
-    dv360_raw_to_clean_lambda_processor = LambdaProcessor(
-        default_raw_to_clean_processor
-    )
+    dv360_raw_to_clean_lambda_processor = LambdaProcessor(default_raw_to_clean_processor)
     dv360_raw_to_clean_lambda_processor.process_event(event, target_bucket)
     LOGGER.info(f"End of lambda for event {event} and context {context}")

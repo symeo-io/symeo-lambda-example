@@ -30,7 +30,6 @@ class InputDataReaderMock(ObtainInputDataReaderAdapter):
 
 
 class InputDataCleanerMock(ObtainInputDataCleanerAdapter):
-
     __number_of_clean = 0
 
     def clean(self, input_data_to_clean: pandas.DataFrame) -> pandas.DataFrame:
@@ -42,7 +41,6 @@ class InputDataCleanerMock(ObtainInputDataCleanerAdapter):
 
 
 class OutputDataTransformerMock(ObtainOutputDataTransformerAdapter):
-
     __number_of_transform = 0
 
     def transform(self, input_data: pandas.DataFrame) -> pandas.DataFrame:

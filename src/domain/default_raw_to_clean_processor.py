@@ -39,9 +39,7 @@ class DefaultRawToCleanProcessor(RequestRawToCleanProcessorAdaptor):
         LOGGER.debug("input data len: %s" % len(input_data))
         cleaned_input_data = self.__obtain_input_data_cleaner.clean(input_data)
         LOGGER.debug("cleaned_input_data data len: %s" % len(cleaned_input_data))
-        transformed_output_data = self.__obtain_output_data_transformer.transform(
-            cleaned_input_data
-        )
+        transformed_output_data = self.__obtain_output_data_transformer.transform(cleaned_input_data)
         LOGGER.debug("transformed data done")
         self.__obtain_output_data_writer.write(transformed_output_data, target_object)
         LOGGER.debug("write done")

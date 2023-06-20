@@ -37,24 +37,14 @@ class LambdaProcessor:
         LOGGER.info("Source bucket: " + bucket_source)
         LOGGER.info("Source prefix: " + key)
         source_bucket_object = BucketObject(bucket_source, key)
-        target_bucket_object = BucketObject(
-            target_bucket_name, key.replace(".json", ".parquet")
-        )
-        self.__raw_to_clean_processor.process(
-            source_bucket_object, target_bucket_object
-        )
+        target_bucket_object = BucketObject(target_bucket_name, key.replace(".json", ".parquet"))
+        self.__raw_to_clean_processor.process(source_bucket_object, target_bucket_object)
 
     @staticmethod
     def check_and_get_environment_variables():
-        aws_access_key_id = LambdaProcessor.__check_and_return_environment_variable(
-            "AWS_ACCESS_KEY_ID"
-        )
-        aws_secret_access_key = LambdaProcessor.__check_and_return_environment_variable(
-            "AWS_SECRET_ACCESS_KEY"
-        )
-        target_bucket = LambdaProcessor.__check_and_return_environment_variable(
-            "TARGET_BUCKET"
-        )
+        aws_access_key_id = LambdaProcessor.__check_and_return_environment_variable("AWS_ACCESS_KEY_ID")
+        aws_secret_access_key = LambdaProcessor.__check_and_return_environment_variable("AWS_SECRET_ACCESS_KEY")
+        target_bucket = LambdaProcessor.__check_and_return_environment_variable("TARGET_BUCKET")
         return aws_access_key_id, aws_secret_access_key, target_bucket
 
     @staticmethod

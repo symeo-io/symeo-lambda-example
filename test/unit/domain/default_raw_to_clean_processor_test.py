@@ -33,7 +33,5 @@ class DefaultRawToCleanProcessorTest(unittest.TestCase):
         # Then
         self.assertEquals(1, obtain_input_data_reader_mock.get_number_of_read())
         self.assertEquals(1, obtain_input_data_cleaner_mock.get_number_of_clean())
-        self.assertEquals(
-            1, obtain_output_data_transformer_mock.get_number_of_transform()
-        )
+        self.assertEquals(1, obtain_output_data_transformer_mock.get_number_of_transform())
         self.assertEquals(1, obtain_output_data_writer_mock.get_number_of_write())

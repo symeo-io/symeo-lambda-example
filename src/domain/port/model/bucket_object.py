@@ -6,6 +6,5 @@ from src.domain.port.model.target_object import TargetObject
 
 @dataclass
 class BucketObject(SourceObject, TargetObject):
-
     bucket: str
     key: str
